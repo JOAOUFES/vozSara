@@ -26,7 +26,7 @@ Este projeto implementa um assistente virtual chamado "SARA" capaz de reconhecer
 git clone https://github.com/JOAOUFES/vozSara.git
 ```
 2- Navegue até o diretório do repositório clonado.
-
+    Crie um ambiente virtual e ative-o
 3- Instale as dependências.
 ```bash
 pip install pyaudio wave threading os openai gtts playsound
@@ -76,7 +76,6 @@ git clone https://github.com/ProgramadorArtificial/vits-portuguese.git
 
 ## Licença
 
-[MIT](https://choosealicense.com/licenses/mit/)
 
 
 ## Autores
@@ -91,4 +90,4 @@ Video do teste feito com o sistema.
 
 ## Contribuições
 
-Contribuições são sempre bem-vindas. Sinta-se à vontade para clonar, forkar ou enviar pull requests.
+Contribuições são sempre bem-vindas. 
