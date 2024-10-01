@@ -53,7 +53,7 @@ git clone https://github.com/JOAOUFES/vozSara.git
 ```
 2- Navegue até o diretório do projeto:
 ```bash
-cd VoztextocomGPT
+cd vozSara
 ```
 3- Execute o script:
 ```bash
