@@ -23,7 +23,7 @@ Este projeto implementa um assistente virtual chamado "SARA" capaz de reconhecer
 
 1- Clone o repositório:
 ```bash
-git clone https://github.com/joaovitorroriz/VoztextocomGPT.git
+git clone https://github.com/JOAOUFES/vozSara.git
 ```
 2- Navegue até o diretório do repositório clonado.
 
@@ -49,7 +49,7 @@ Para executar o programa, siga estes passos:
 
 1- Clone o repositório:
 ```bash
-git clone https://github.com/joaovitorroriz/VoztextocomGPT.git
+git clone https://github.com/JOAOUFES/vozSara.git
 ```
 2- Navegue até o diretório do projeto:
 ```bash
